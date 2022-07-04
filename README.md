@@ -1,3 +1,5 @@
-### Hi there 👋
-
-[![skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,java)](#)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,java,aws,js,react,nextjs,tailwind,vim,vscode" />
+  </a>
+</p>
