@@ -13,7 +13,7 @@
   <a href="mailto:zayadur@outlook.com"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/outlook.svg" /></a>
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zayadur&theme=dark&include_all_commits=true&hide_rank=true&show_icons=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zayadur&show_icons=true&theme=dark&locale=en&layout=compact&hide_title=true&langs_count=10&card_width=258">
 </p>
