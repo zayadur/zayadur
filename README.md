@@ -14,6 +14,6 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=zayadur&theme=dark&hide_title=true&include_all_commits=true&hide_rank=true&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=zayadur&theme=dark&include_all_commits=true&hide_rank=true&show_icons=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zayadur&show_icons=true&theme=dark&locale=en&layout=compact&hide_title=true&langs_count=10&card_width=258">
 </p>
