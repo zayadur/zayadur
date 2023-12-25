@@ -22,5 +22,6 @@
 
 # 🏗️ projects
 
-<h3><a href="https://swipecardgame.com">Swipe👆</a> - website for a tabletop game (<a href="https://github.com/zayadur/com.swipecardgame">source</a>)</h3>
-
+<h4><a href="https://swipecardgame.com">Swipe👆</a> - website for a tabletop game (<a href="https://github.com/zayadur/com.swipecardgame">source</a>)</h4>
+<h4><a href="https://zayadur.com">Portfolio</a> - first dive into Next.js (<a href="https://github.com/zayadur/portfolio">source</a>)</h4>
+<h4><a href="https://emnt.co">EMINENT</a> - landing page for my online community, powered by Payload (<a href="https://github.com/emntco/webapp">source</a>)</h4>
