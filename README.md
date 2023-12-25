@@ -2,7 +2,7 @@
   👋 Hello, world! I'm <strong>Zayadur</strong>
 </h2>
 <h3 align="center">
-  aspiring software engineer and marketing coordinator
+  web developer and entrepeneur
 </h3>
 <br>
 <p align="center">
