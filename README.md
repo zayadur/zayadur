@@ -2,7 +2,7 @@
   👋 Hello, world! I'm <strong>Zayadur</strong>
 </h2>
 <h3 align="center">
-  web developer and entrepeneur
+  developer and entrepeneur
 </h3>
 <br>
 <p align="center">
@@ -21,4 +21,4 @@
 
 # 🏗️ projects
 
-<h4><a href="https://emnt.co">EMINENT</a> - the index (<a href="https://github.com/emntco/">source</a>)</h4>
+<h4><a href="https://emnt.co">emnt.co</a> - the index (<a href="https://github.com/emntco/">source</a>)</h4>
