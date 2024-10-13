@@ -5,7 +5,7 @@
   developer and entrepeneur
 </h3>
 <br>
-<p align="center">
+<p>
   <a href="https://www.freecodecamp.org/zayadur"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/freecodecamp.svg" /></a>
   <a href="https://www.linkedin.com/in/zayadur/"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" /></a>
   <a href="https://twitter.com/zayadur"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" /></a>
