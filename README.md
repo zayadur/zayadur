@@ -6,11 +6,11 @@ where: NYC
 why: Enjoy a low-stress DX while maintaining human connections.  
 
 # 🏗️ projects
-<h4><a href="https://emnt.co">emnt.co</a> - the index</h4>
-<p><a href="https://payloadsecret.io">payloadsecret.io</a></p>
+<h4><a href="https://emnt.co" target="_blank">emnt.co</a> - the index</h4>
+<p><a href="https://payloadsecret.io" target="_blank">payloadsecret.io</a></p>
 <p><a href="https://nasimas.com" target="_blank">nasimas.com</a></p>
 <p><a href="https://upperechelon.gg" target="_blank">upperechelon.gg</a> | <a href="https://emnt.co/posts/upper-echelon">case study</a></p>
-<p><a href="https://emnt.co/posts/wp-spaces">WordPress Spaces</a></p>
+<p><a href="https://emnt.co/posts/wp-spaces" target="_blank">WordPress Spaces</a></p>
 
 # 📊 stats
 <p>
