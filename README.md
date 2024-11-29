@@ -1,5 +1,6 @@
 # 👋 hello, world!
-I am Zayadur, and I have been exploring high-level solutions for running a bespoke software agency in New York City since 2023. My focus is on creating a low-stress development experience while fostering meaningful human connections. I aim to combine innovative software solutions with a collaborative environment that prioritizes both productivity and well-being.  
+<p>I am Zayadur, a developer at a digital agency focused on innovating business models and enhancing the developer experience. The developer world is often cluttered with technologies that are so abstracted—like frameworks—that understanding the underlying tech has become a challenge. Developers frequently learn about these technologies only by encountering problems at the abstracted level.</p>
+<p>I am exploring ways to optimize the management of services offered by agencies by automating development processes and pipelines while preserving the essential human element. My goal is to create an enjoyable development experience that acknowledges and understands the technologies developers rely on, ultimately leading to the delivery of high-quality products.</p>
 
 # 🏗️ projects
 <h4><a href="https://emnt.co" target="_blank">emnt.co</a> - the index</h4>
