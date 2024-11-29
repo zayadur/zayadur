@@ -1,9 +1,5 @@
 # 👋 hello, world!
-who: Zayadur  
-what: Exploring high level solutions for running a bespoke software agency.  
-when: Since 2023  
-where: NYC  
-why: Enjoy a low-stress DX while maintaining human connections.  
+I am Zayadur, and I have been exploring high-level solutions for running a bespoke software agency in New York City since 2023. My focus is on creating a low-stress development experience while fostering meaningful human connections. I aim to combine innovative software solutions with a collaborative environment that prioritizes both productivity and well-being.  
 
 # 🏗️ projects
 <h4><a href="https://emnt.co" target="_blank">emnt.co</a> - the index</h4>
