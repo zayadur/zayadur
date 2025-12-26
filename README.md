@@ -3,11 +3,10 @@
 <p>I am exploring ways to optimize the management of services offered by agencies by automating development processes and pipelines while preserving the essential human element. My goal is to create an enjoyable development experience that acknowledges and understands the technologies developers rely on, ultimately leading to the delivery of high-quality products.</p>
 
 # 🏗️ projects
-<h4><a href="https://emnt.co" target="_blank">emnt.co</a> - the index</h4>
-<p><a href="https://payloadsecret.io" target="_blank">payloadsecret.io</a></p>
+<h4><a href="https://eminent.sh" target="_blank">eminent.sh</a> - the index</h4>
+<p><a href="https://payloadsecret.com" target="_blank">payloadsecret.com</a></p>
 <p><a href="https://nasimas.com" target="_blank">nasimas.com</a></p>
-<p><a href="https://upperechelon.gg" target="_blank">upperechelon.gg</a> | <a href="https://emnt.co/posts/upper-echelon">case study</a></p>
-<p><a href="https://emnt.co/posts/wp-spaces" target="_blank">WordPress Spaces</a></p>
+<p><a href="https://upperechelon.gg" target="_blank">upperechelon.gg</a>
 
 # 📊 stats
 <p>
@@ -19,6 +18,5 @@
 <p>
   <a href="https://www.freecodecamp.org/zayadur"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/freecodecamp.svg" /></a>
   <a href="https://www.linkedin.com/in/zayadur/"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" /></a>
-  <a href="https://twitter.com/zayadur"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" /></a>
   <a href="mailto:zayadur@me.com"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" /></a>
 </p>
